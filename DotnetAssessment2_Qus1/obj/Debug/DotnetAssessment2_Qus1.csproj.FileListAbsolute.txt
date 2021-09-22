@@ -1,0 +1,7 @@
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\bin\Debug\DotnetAssessment2_Qus1.exe.config
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\bin\Debug\DotnetAssessment2_Qus1.exe
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\bin\Debug\DotnetAssessment2_Qus1.pdb
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\obj\Debug\DotnetAssessment2_Qus1.csproj.AssemblyReference.cache
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\obj\Debug\DotnetAssessment2_Qus1.csproj.CoreCompileInputs.cache
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\obj\Debug\DotnetAssessment2_Qus1.exe
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2\DotnetAssessment2_Qus1\obj\Debug\DotnetAssessment2_Qus1.pdb

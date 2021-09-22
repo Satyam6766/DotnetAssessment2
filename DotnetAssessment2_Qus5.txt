@@ -1,0 +1,17 @@
+Qus5) Difference between Namespace and assemblies ?
+Ans)
+
+
+Namespace:
+
+Namespace is used in order to avoid conflict of user defined classes.
+1) it is a Collection of names wherein each name is Unique.
+2) They form the logical boundary for a Group of classes.
+3) Namespace must be specified in Project-Properties.
+
+Assembly:
+Assembly will contain Namespaces, Classes, Data types it's a small unit of code for deployment. 
+1) It is an Output Unit.
+2) It is a unit of Deployment & a unit of versioning.It represents the name of .dll files.
+3) Assemblies contain MSIL code.
+5)An assembly is the primary building block of a .NET Framework application.

@@ -1,0 +1,22 @@
+What is the value data type and reference data type in c# ?
+Ans)
+
+VALUE TYPE
+A data type is a value type if it holds a data value within its own memory space. It means the variables of
+ these data types directly contain values.
+
+All the value types derive from System.ValueType, which in-turn, derives from System.Object.
+For example, consider integer variable int i = 100;
+
+The system stores 100 in the memory space allocated for the variable i. 
+The following data types are all of value type:
+bool  byte  char  decimal  double  enum  float  int
+long  sbyte  short  struct  uint   ulong  ushort
+
+REFERENCE TYPE
+Unlike value types, a reference type doesn't store its value directly. 
+Instead, it stores the address where the value is being stored. 
+In other words, a reference type contains a pointer to another memory location that holds the data.
+
+The followings are reference type data types:
+String  Arrays   Class  Delegate

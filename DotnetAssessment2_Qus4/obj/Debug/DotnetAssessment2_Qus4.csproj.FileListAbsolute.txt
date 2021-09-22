@@ -1,0 +1,6 @@
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2_Qus4\bin\Debug\DotnetAssessment2_Qus4.exe.config
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2_Qus4\bin\Debug\DotnetAssessment2_Qus4.exe
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2_Qus4\bin\Debug\DotnetAssessment2_Qus4.pdb
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2_Qus4\obj\Debug\DotnetAssessment2_Qus4.csproj.CoreCompileInputs.cache
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2_Qus4\obj\Debug\DotnetAssessment2_Qus4.exe
+C:\Users\Satyam Singh\source\repos\DotnetAssessment2_Qus4\obj\Debug\DotnetAssessment2_Qus4.pdb
